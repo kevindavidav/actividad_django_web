@@ -2,15 +2,6 @@
 
 Aplicación web Django para gestionar una biblioteca con autores, libros y reseñas.
 
-## Características
-
-- ✅ Registro de autores y libros
-- ✅ Sistema de reseñas para cada libro
-- ✅ Visualización de libros y sus reseñas
-- ✅ Panel de administración personalizado
-- ✅ Validaciones personalizadas en los modelos
-- ✅ Script para poblar datos iniciales
-
 ## Estructura del Proyecto
 
 ```
